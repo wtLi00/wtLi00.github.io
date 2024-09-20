@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
-title                    : "主页"
+locale                   : "en-US"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "wtli00/wtli00.github.io"
 author:
   # Biographic information
   avatar           : "QQ截图20221116135038.png"
-  name             : "李文滔"
+  name             : "Li wentao"
   pronouns         : "he/his"# example: "she/her"  
-  bio              : "this page need some change"
-  location         : "安徽合肥-中国"
-  employer         : "中国科学技术大学"
+  bio              : "this page need some changes"
+  location         : "Anhui-China"
+  employer         : "USTC"
   uri              : # URL
   email            : "wtli@mail.ustc.edu.cn" 
 
